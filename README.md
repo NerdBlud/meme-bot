@@ -1,7 +1,7 @@
-```
-**🤖 Anime GIF Reaction Bot**
 
-A fun open-source Discord bot for anime GIF reactions and meme searches – perfect for anime lovers!
+**🤖  GIF Reaction Bot**
+
+A fun open-source Discord bot for GIF reactions and meme searches – perfect for anime lovers!
 
 **🌟 Features**
 - 30+ anime actions (punch, kiss, yeet, etc.)
@@ -22,7 +22,6 @@ __**Installation:**__
 ```bash
 git clone https://github.com/nerdblud/meme-bot.git
 cd meme-bot
-```
 
 2. Install dependencies:
 ```bash
