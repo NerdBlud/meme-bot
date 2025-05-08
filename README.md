@@ -71,7 +71,6 @@ __**Utility Commands**__
 
 - Found a bug? Got a feature idea?  
   → Open an Issue on GitHub  
-  → Or join our Support Server (link optional)
 
 ---
 
