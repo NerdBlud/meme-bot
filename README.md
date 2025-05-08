@@ -22,6 +22,7 @@ __**Installation:**__
 ```bash
 git clone https://github.com/nerdblud/meme-bot.git
 cd meme-bot
+```
 
 2. Install dependencies:
 ```bash
